@@ -2,7 +2,7 @@
 #Math 3800
 #Seth Goldish, Ely Biggs, Taylor Saintable
 #
-#Flood Model     Main program    Version 0.01
+#Wildfire Model     Main program    Version 0.01
 #
 #
 #
